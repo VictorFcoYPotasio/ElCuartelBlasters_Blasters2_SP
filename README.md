@@ -1,6 +1,8 @@
 
 # 🎮 Traducciones El Cuartel Blasters
 
+Únete a nuestro Discord:  https://discord.gg/fyqF6dhfUQ
+
 ## Traducción al Español — Yo-kai Watch Blasters 2
 
 Bienvenidos al proyecto de traducción al español de **Yo-kai Watch Blasters 2**.
@@ -188,8 +190,11 @@ Sin su trabajo, este proyecto no habría sido posible.
 ## 🧰 Soporte Técnico
 
 **YO NEW 3DS**
+
 **DARKVERD**
+
 **NONO**
+
 *(Equipo B2 Francés)*
 
 Apoyo constante en herramientas, archivos y asistencia técnica.
