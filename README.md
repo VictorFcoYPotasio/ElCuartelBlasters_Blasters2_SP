@@ -94,6 +94,8 @@ El contenido faltante se publicará:
 
 📅 **Cada lunes**
 
+<img width="2400" height="1348" alt="BlastersTVisualArtwork" src="https://github.com/user-attachments/assets/a7253a72-1aa6-4bef-adca-45a30bbf621f" />
+
 Además:
 
 ✨ Se añadirá contenido adicional semanal
