@@ -301,7 +301,7 @@ Si deseas:
 * Ajustar textos
 * Reportar problemas
 
-📢 **Avísanos en la sección de errores del repositorio.**
+📢 **Avísanos en la sección de errores del repositorio o en nuestro Discord.**
 
 ---
 
