@@ -25,7 +25,7 @@ Se ha pulido bastante para ofrecer una experiencia completa, pero aún faltan el
 
 * **Menús** → 100%
 * **Texturas de menús** → 99%
-* **Historia** → 80% *(faltan 5 capítulos)*
+* **Historia** → 80% *(faltan 4 capítulos)*
 * **Diálogos de personajes** → 70%
 * **Textos post-jefe** → 60%
 
@@ -145,13 +145,13 @@ Podrán disfrutar de una experiencia:
 
 ✅ **Visualmente completa**
 ✅ **Jugable desde inicio hasta capítulo 6**
-⚠️ **Faltan 5 capítulos por traducir**
+⚠️ **Faltan 4 capítulos por traducir**
 
 ### 📖 Progreso de Historia
 
-* Capítulos traducidos → **6 / 11**
+* Capítulos traducidos → **7 / 11**
 
-📌 Si llegas al capítulo 6:
+📌 Si llegas al capítulo 7:
 
 ➡️ **DETENTE y espera al siguiente lunes**
 ➡️ Cada semana se añadirá un nuevo capítulo
@@ -168,7 +168,7 @@ Si encuentras:
 * Problemas visuales
 * Frases que puedan mejorarse
 
-📢 **Repórtalo en la sección correspondiente del repositorio.**
+📢 **Repórtalo en la sección correspondiente del repositorio o en nuestro Discord.**
 
 Esto nos permitirá:
 
