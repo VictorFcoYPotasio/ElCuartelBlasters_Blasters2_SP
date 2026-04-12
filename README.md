@@ -25,9 +25,9 @@ Se ha pulido bastante para ofrecer una experiencia completa, pero aún faltan el
 
 * **Menús** → 100%
 * **Texturas de menús** → 99%
-* **Historia** → 80% *(faltan 4 capítulos)*
-* **Diálogos de personajes** → 70%
-* **Textos post-jefe** → 60%
+* **Historia** → 90% *(faltan 2 capítulos)*
+* **Diálogos de personajes** → 90%
+* **Textos post-jefe** → 90%
 
 ---
 
@@ -59,24 +59,7 @@ Se ha pulido bastante para ofrecer una experiencia completa, pero aún faltan el
 
 ## 🎯 Modos / Extras
 
-* **Arena del viajero** → 70%
-
----
-
-# 👥 Personajes Traducidos
-
-* Whisper
-* Enma / Lord Ananta
-* Jefe Doya
-* Normalino
-* KJ
-* Wibblehover
-* Jibanyan T Áurio
-* Komasan T Áurio
-* Indiana Jaws Áurio
-* Adoleszombi Áurio
-* Nyansés II Áurio
-* Vulcavador
+* **Arena del viajero** → 90%
 
 ---
 
@@ -149,9 +132,9 @@ Podrán disfrutar de una experiencia:
 
 ### 📖 Progreso de Historia
 
-* Capítulos traducidos → **7 / 11**
+* Capítulos traducidos → **9 / 11**
 
-📌 Si llegas al capítulo 7:
+📌 Si llegas al capítulo 9:
 
 ➡️ **DETENTE y espera al siguiente lunes**
 ➡️ Cada semana se añadirá un nuevo capítulo
