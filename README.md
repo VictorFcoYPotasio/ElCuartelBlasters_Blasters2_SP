@@ -127,8 +127,8 @@ Cada semana se añadirá:
 Podrán disfrutar de una experiencia:
 
 ✅ **Visualmente completa**
-✅ **Jugable desde inicio hasta capítulo 6**
-⚠️ **Faltan 4 capítulos por traducir**
+✅ **Jugable desde inicio hasta capítulo 9**
+⚠️ **Faltan 2 capítulos por traducir**
 
 ### 📖 Progreso de Historia
 
@@ -268,12 +268,22 @@ Aunque:
 
 ♾️ **No todo es perfecto todavía**
 
-Se publicarán próximamente los **3 defectos conocidos del parche**, los cuales:
+ERRORES CONOCIDOS DEL PARCHE
+El parche original de Light y Sofuto tienen unos errores que aún no han arreglado, y algunos imposibles de arreglar
 
-✔️ No afectan la jugabilidad
-✔️ Son detalles menores
+*No afectan mucho la experiencia de juego*
 
----
+1 - Cuando aparecen los nombres en los resultados al terminar una mazmorra, los últimos 2 de tu 
+equipo salen un poco más abajo de lo que deberían. Solo aparecen abajo en ese menú, en el resto sale todo normal.
+
+2 - Komemo no guarda los apodos de los Yo-kai. Puedes ponerle el apodo que quieras a los Yo-kai y guardarlo etc.
+Pero al reiniciar el juego el apodo no se guardará.
+
+3 - Este podría ser el mas importante:
+Las Mazmorras infinitas tienen un tiempo limite de mazmorras exclusivas que aparecen 1 vez al día.
+Solo duran 1 hora y tienen un tiempo limite pero el texto esta encriptado en el .cia del juego imposible editarlo por si tienen duda 
+Dice **Tiempo limite 1 (min)**. Depende el tiempo que muestre el juego puede ser de 1; horas, segundos o minutos. 
+
 
 # 💬 Feedback
 
