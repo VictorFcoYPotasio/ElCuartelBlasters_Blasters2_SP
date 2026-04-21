@@ -13,8 +13,6 @@ El proyecto comenzó de forma individual y, con el tiempo, el equipo creció.
 A pesar de distintos retrasos y del tiempo limitado, todos cumplieron con la entrega y edición de archivos (traducción, ajustes y mejoras).
 
 
-📅 **El contenido restante se seguirá publicando semanalmente.**
-
 ---
 
 # 📊 Progreso de Traducción
