@@ -7,13 +7,11 @@
 
 Bienvenidos al proyecto de traducción al español de **Yo-kai Watch Blasters 2**.
 
-Nuestro equipo ha trabajado durante meses para alcanzar entre un **70% y 80% de la traducción total**, basándonos en la versión inglesa creada por **Light y Sofuto**.
+Nuestro equipo ha trabajado durante meses para alcanzar una **traducción completa del juego**, basándonos en la versión inglesa creada por **Light y Sofuto**.
 
 El proyecto comenzó de forma individual y, con el tiempo, el equipo creció.
 A pesar de distintos retrasos y del tiempo limitado, todos cumplieron con la entrega y edición de archivos (traducción, ajustes y mejoras).
 
-⚠️ **Esto no es el producto final.**
-Se ha pulido bastante para ofrecer una experiencia completa, pero aún faltan elementos por traducir y ajustar.
 
 📅 **El contenido restante se seguirá publicando semanalmente.**
 
@@ -24,10 +22,10 @@ Se ha pulido bastante para ofrecer una experiencia completa, pero aún faltan el
 ## 📝 Textos
 
 * **Menús** → 100%
-* **Texturas de menús** → 99%
-* **Historia** → 90% *(faltan 2 capítulos)*
-* **Diálogos de personajes** → 90%
-* **Textos post-jefe** → 90%
+* **Texturas de menús** → 100%
+* **Historia** → 100%
+* **Diálogos de personajes** → 100%
+* **Textos post-jefe** → 100%
 
 ---
 
@@ -59,7 +57,7 @@ Se ha pulido bastante para ofrecer una experiencia completa, pero aún faltan el
 
 ## 🎯 Modos / Extras
 
-* **Arena del viajero** → 90%
+* **Arena del viajero** → 100%
 
 ---
 
@@ -71,32 +69,12 @@ Se ha pulido bastante para ofrecer una experiencia completa, pero aún faltan el
 
 ---
 
-# 📦 Contenido Faltante
 
-El contenido faltante se publicará:
+➡️ **Sobre futuras actualizaciones**
 
-📅 **Cada lunes**
+Cada actualización se añadirá:
 
-<img width="2400" height="1348" alt="BlastersTVisualArtwork" src="https://github.com/user-attachments/assets/a7253a72-1aa6-4bef-adca-45a30bbf621f" />
-
-Además:
-
-✨ Se añadirá contenido adicional semanal
-📍 Se seguirá una hoja de ruta progresiva
-⚠️ Las fechas específicas pueden variar
-
----
-
-# 🎙️ Próximamente
-
-📢 El **20 de marzo** iniciamos:
-
-➡️ **Doblaje en Español**
-
-Cada semana se añadirá:
-
-* Nuevo capítulo de historia
-* Más contenido jugable
+* Arreglos de Bugs
 * Más doblajes
 * Mejoras adicionales
 
@@ -118,7 +96,6 @@ Cada semana se añadirá:
 
 * Optimización general del juego
 
-📢 **Más contenido será anunciado próximamente.**
 
 ---
 
@@ -127,17 +104,7 @@ Cada semana se añadirá:
 Podrán disfrutar de una experiencia:
 
 ✅ **Visualmente completa**
-✅ **Jugable desde inicio hasta capítulo 9**
-⚠️ **Faltan 2 capítulos por traducir**
-
-### 📖 Progreso de Historia
-
-* Capítulos traducidos → **9 / 11**
-
-📌 Si llegas al capítulo 9:
-
-➡️ **DETENTE y espera al siguiente lunes**
-➡️ Cada semana se añadirá un nuevo capítulo
+✅ **Historia completa de principio a fin**
 
 ---
 
@@ -256,19 +223,8 @@ Quienes ya han participado:
 
 ---
 
-# 📌 Conclusión
+## **ERRORES CONOCIDOS DEL PARCHE**
 
-Hicimos todo lo posible para que:
-
-🎮 La experiencia sea funcional
-🧭 La navegación sea clara
-🧩 El juego sea disfrutable
-
-Aunque:
-
-♾️ **No todo es perfecto todavía**
-
-ERRORES CONOCIDOS DEL PARCHE
 El parche original de Light y Sofuto tienen unos errores que aún no han arreglado, y algunos imposibles de arreglar
 
 *No afectan mucho la experiencia de juego*
