@@ -12,7 +12,7 @@ Nuestro equipo ha trabajado durante meses para alcanzar una **traducción comple
 El proyecto comenzó de forma individual y, con el tiempo, el equipo creció.
 A pesar de distintos retrasos y del tiempo limitado, todos cumplieron con la entrega y edición de archivos (traducción, ajustes y mejoras).
 
-QRs para Instalar la traducción:
+QRs para instalar la traducción:
 <img width="2400" height="1348" alt="qrs_mag" src="https://github.com/user-attachments/assets/06798f92-4b19-41c8-b675-abf61b1d1718" /> <img width="2400" height="1348" alt="ESPADAqe" src="https://github.com/user-attachments/assets/bb3000b7-72f3-4565-942a-6429cc239f27" />
 
 ---
